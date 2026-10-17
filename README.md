@@ -21,3 +21,11 @@ Crear la rama principal de nuestro repositorio llamado main
 4. git branch -M main 
 
 Enlazar el repositorio local con nuestra cuenta de Github 
+Es importante crear el repositorio local con nuestra cuenta de Github 
+
+5. git remote add origin 
+url del repositorio 
+
+Enviar el ultimo commit hacia el espacio den nuestro repositorio 
+
+6. git push -uorigin main 
