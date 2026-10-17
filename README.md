@@ -16,4 +16,8 @@ Generar la versió nueva que incluye los archivos que se han agregados al previo
 
 3. git commit -m "Primer commit, agregando archivos del proyecto" 
 
+Crear la rama principal de nuestro repositorio llamado main 
+
+4. git branch -M main 
+
 Enlazar el repositorio local con nuestra cuenta de Github 
